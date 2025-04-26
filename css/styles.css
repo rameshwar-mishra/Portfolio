@@ -374,6 +374,7 @@ body.dark-theme .navbar {
   justify-content: center;
   align-items: center;
   margin-top: var(--spacing-xl);
+  margin-bottom: var(--spacing-xxl); /* Added margin for mobile spacing */
 }
 
 .profile-image {
