@@ -138,7 +138,7 @@ img, svg {
 }
 
 .dark-section {
-  background-color: var(--bg-light);
+  background-color: var(--bg-light);  
 }
 
 .gradient-section {
@@ -884,7 +884,7 @@ body.dark-theme .navbar {
   }
 
   body.dark-theme .contact-card {
-    background-color: var(--dark-secondary);
+    background-color: var(--dark-primary);
     box-shadow: 0 10px 25px var(--dark-shadow-color);
     border-color: var(--dark-border-color);
   }
