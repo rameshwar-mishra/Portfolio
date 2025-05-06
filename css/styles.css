@@ -1160,7 +1160,7 @@ body.dark-theme .navbar {
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
   .projects-grid {
-    grid-template-columns: 1fr 1fr;
+    align-items: center;
   }
   
   .achievements-grid {
